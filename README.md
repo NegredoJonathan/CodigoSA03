@@ -1,6 +1,6 @@
 # CodigoSA03
-Arquivo norteador da aula em html
-Aprendendo a criar site, tema livvre
+Arquivo norteador da aula em html. 
+Aprendendo a criar site, tema livre. 
 Esse site precisa seguir os seguintes critérios para avaliação:
 - Pelo menos 3 rotas, exemplo: home, contato, sobre. (3 pontos)
 - Site criativo e autêntico. (3 pontos)
